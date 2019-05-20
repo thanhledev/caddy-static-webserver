@@ -1,0 +1,710 @@
+/*
+************************************************
+           ==Color Presets==
+************************************************ 
+*/
+
+/*======================================
+                Primary Color
+======================================*/
+.v2__switcher .color__1{
+    background: #F9BF3B;
+}
+
+/*======================================
+                Color 2
+======================================*/
+.v2__switcher .color__2,
+.color__2 .slider__btn,
+.color__2 .switcher_btn .btn,
+.color__2 .top__header .social__icon i:hover,
+.color__2 .rev-btn,
+.color__2 .load-more,
+.color__2 .team__social i:hover,
+.color__2 .progress-bar.primary,
+.color__2 .image__content ul li i,
+.color__2 .package__name,
+.color__2 .flickity-page-dots .dot.is-selected,
+.color__2 .send__message .wpcf7-submit,
+.color__2 .subscribe__btn {
+    background: #0CABE5;
+}
+
+.color__2 .nav-menu > li:hover > a,
+.color__2 .nav-menu > .active > a,
+.color__2 .nav-menu > .focus > a,
+.color__2 header.sticky-header .nav-menu > li:hover > a,
+.color__2 header.sticky-header .nav-menu > .active > a,
+.color__2 header.sticky-header .nav-menu > .focus > a,
+.color__2 .v2 .counter__wrapper i,
+.color__2 .fig__caption i,
+.color__2 .testimonial i,
+.color__2 a.read__more:hover,
+.color__2 .social__link li:hover i,
+.color__2 .footer__widget ul li a:hover {
+    color: #0CABE5;
+}
+
+.color__2 .top__header .social__icon i:hover,
+.color__2 .about__btn:hover,
+.color__2 .send__message .wpcf7-submit:hover,
+.color__2 .subscribe__btn:hover,
+.color__2 .load-more:hover,
+.color__2 .v2_service_block:hover,
+.color__2 .team__social i:hover,
+.color__2 .btn.pricing__btn:hover {
+    border-color: #0CABE5;
+}
+
+.color__2 .about__btn:hover {
+    box-shadow: inset #0CABE5 0px -60px 0px;
+}
+
+.color__2 .btn.pricing__btn:hover {
+    box-shadow: inset #0CABE5 0px -60px 0px;
+}
+
+.color__2 .pricing.focused {
+    box-shadow: #0CABE5 0 5px 0px;
+}
+
+
+/*======================================
+                Color 3
+======================================*/
+.v2__switcher .color__3,
+.color__3 .slider__btn,
+.color__3 .switcher_btn .btn,
+.color__3 .top__header .social__icon i:hover,
+.color__3 .rev-btn,
+.color__3 .load-more,
+.color__3 .team__social i:hover,
+.color__3 .progress-bar.primary,
+.color__3 .image__content ul li i,
+.color__3 .package__name,
+.color__3 .flickity-page-dots .dot.is-selected,
+.color__3 .send__message .wpcf7-submit,
+.color__3 .subscribe__btn {
+    background: #1294F6;
+}
+
+.color__3 .nav-menu > li:hover > a,
+.color__3 .nav-menu > .active > a,
+.color__3 .nav-menu > .focus > a,
+.color__3 header.sticky-header .nav-menu > li:hover > a,
+.color__3 header.sticky-header .nav-menu > .active > a,
+.color__3 header.sticky-header .nav-menu > .focus > a,
+.color__3 .v2 .counter__wrapper i,
+.color__3 .fig__caption i,
+.color__3 .testimonial i,
+.color__3 a.read__more:hover,
+.color__3 .social__link li:hover i,
+.color__3 .footer__widget ul li a:hover {
+    color: #1294F6;
+}
+
+.color__3 .top__header .social__icon i:hover,
+.color__3 .about__btn:hover,
+.color__3 .send__message .wpcf7-submit:hover,
+.color__3 .subscribe__btn:hover,
+.color__3 .load-more:hover,
+.color__3 .v2_service_block:hover,
+.color__3 .team__social i:hover,
+.color__3 .btn.pricing__btn:hover {
+    border-color: #1294F6;
+}
+
+.color__3 .about__btn:hover {
+    box-shadow: inset #1294F6 0px -60px 0px;
+}
+
+.color__3 .btn.pricing__btn:hover {
+    box-shadow: inset #1294F6 0px -60px 0px;
+}
+
+.color__3 .pricing.focused {
+    box-shadow: #1294F6 0 5px 0px;
+}
+
+/*======================================
+                Color 4
+======================================*/
+.v2__switcher .color__4,
+.color__4 .slider__btn,
+.color__4 .switcher_btn .btn,
+.color__4 .top__header .social__icon i:hover,
+.color__4 .rev-btn,
+.color__4 .load-more,
+.color__4 .team__social i:hover,
+.color__4 .progress-bar.primary,
+.color__4 .image__content ul li i,
+.color__4 .package__name,
+.color__4 .flickity-page-dots .dot.is-selected,
+.color__4 .send__message .wpcf7-submit,
+.color__4 .subscribe__btn {
+    background: #3F4DB8;
+}
+
+.color__4 .nav-menu > li:hover > a,
+.color__4 .nav-menu > .active > a,
+.color__4 .nav-menu > .focus > a,
+.color__4 header.sticky-header .nav-menu > li:hover > a,
+.color__4 header.sticky-header .nav-menu > .active > a,
+.color__4 header.sticky-header .nav-menu > .focus > a,
+.color__4 .v2 .counter__wrapper i,
+.color__4 .fig__caption i,
+.color__4 .testimonial i,
+.color__4 a.read__more:hover,
+.color__4 .social__link li:hover i,
+.color__4 .footer__widget ul li a:hover {
+    color: #3F4DB8;
+}
+
+.color__4 .top__header .social__icon i:hover,
+.color__4 .about__btn:hover,
+.color__4 .send__message .wpcf7-submit:hover,
+.color__4 .subscribe__btn:hover,
+.color__4 .load-more:hover,
+.color__4 .v2_service_block:hover,
+.color__4 .team__social i:hover,
+.color__4 .btn.pricing__btn:hover {
+    border-color: #3F4DB8;
+}
+
+.color__4 .about__btn:hover {
+    box-shadow: inset #3F4DB8 0px -60px 0px;
+}
+
+.color__4 .btn.pricing__btn:hover {
+    box-shadow: inset #3F4DB8 0px -60px 0px;
+}
+
+.color__4 .pricing.focused {
+    box-shadow: #3F4DB8 0 5px 0px;
+}
+
+/*======================================
+                Color 5
+======================================*/
+.v2__switcher .color__5,
+.color__5 .slider__btn,
+.color__5 .switcher_btn .btn,
+.color__5 .top__header .social__icon i:hover,
+.color__5 .rev-btn,
+.color__5 .load-more,
+.color__5 .team__social i:hover,
+.color__5 .progress-bar.primary,
+.color__5 .image__content ul li i,
+.color__5 .package__name,
+.color__5 .flickity-page-dots .dot.is-selected,
+.color__5 .send__message .wpcf7-submit,
+.color__5 .subscribe__btn {
+    background: #F7412C;
+}
+
+.color__5 .nav-menu > li:hover > a,
+.color__5 .nav-menu > .active > a,
+.color__5 .nav-menu > .focus > a,
+.color__5 header.sticky-header .nav-menu > li:hover > a,
+.color__5 header.sticky-header .nav-menu > .active > a,
+.color__5 header.sticky-header .nav-menu > .focus > a,
+.color__5 .v2 .counter__wrapper i,
+.color__5 .fig__caption i,
+.color__5 .testimonial i,
+.color__5 a.read__more:hover,
+.color__5 .social__link li:hover i,
+.color__5 .footer__widget ul li a:hover {
+    color: #F7412C;
+}
+
+.color__5 .top__header .social__icon i:hover,
+.color__5 .about__btn:hover,
+.color__5 .send__message .wpcf7-submit:hover,
+.color__5 .subscribe__btn:hover,
+.color__5 .load-more:hover,
+.color__5 .v2_service_block:hover,
+.color__5 .team__social i:hover,
+.color__5 .btn.pricing__btn:hover {
+    border-color: #F7412C;
+}
+
+.color__5 .about__btn:hover {
+    box-shadow: inset #F7412C 0px -60px 0px;
+}
+
+.color__5 .btn.pricing__btn:hover {
+    box-shadow: inset #F7412C 0px -60px 0px;
+}
+
+.color__5 .pricing.focused {
+    box-shadow: #F7412C 0 5px 0px;
+}
+
+/*======================================
+                Color 6
+======================================*/
+.v2__switcher .color__6,
+.color__6 .slider__btn,
+.color__6 .switcher_btn .btn,
+.color__6 .top__header .social__icon i:hover,
+.color__6 .rev-btn,
+.color__6 .load-more,
+.color__6 .team__social i:hover,
+.color__6 .progress-bar.primary,
+.color__6 .image__content ul li i,
+.color__6 .package__name,
+.color__6 .flickity-page-dots .dot.is-selected,
+.color__6 .send__message .wpcf7-submit,
+.color__6 .subscribe__btn {
+    background: #FE9900;
+}
+
+.color__6 .nav-menu > li:hover > a,
+.color__6 .nav-menu > .active > a,
+.color__6 .nav-menu > .focus > a,
+.color__6 header.sticky-header .nav-menu > li:hover > a,
+.color__6 header.sticky-header .nav-menu > .active > a,
+.color__6 header.sticky-header .nav-menu > .focus > a,
+.color__6 .v2 .counter__wrapper i,
+.color__6 .fig__caption i,
+.color__6 .testimonial i,
+.color__6 a.read__more:hover,
+.color__6 .social__link li:hover i,
+.color__6 .footer__widget ul li a:hover {
+    color: #FE9900;
+}
+
+.color__6 .top__header .social__icon i:hover,
+.color__6 .about__btn:hover,
+.color__6 .send__message .wpcf7-submit:hover,
+.color__6 .subscribe__btn:hover,
+.color__6 .load-more:hover,
+.color__6 .v2_service_block:hover,
+.color__6 .team__social i:hover,
+.color__6 .btn.pricing__btn:hover {
+    border-color: #FE9900;
+}
+
+.color__6 .about__btn:hover {
+    box-shadow: inset #FE9900 0px -60px 0px;
+}
+
+.color__6 .btn.pricing__btn:hover {
+    box-shadow: inset #FE9900 0px -60px 0px;
+}
+
+.color__6 .pricing.focused {
+    box-shadow: #FE9900 0 5px 0px;
+}
+
+/*======================================
+                Color 7
+======================================*/
+.v2__switcher .color__7,
+.color__7 .slider__btn,
+.color__7 .switcher_btn .btn,
+.color__7 .top__header .social__icon i:hover,
+.color__7 .rev-btn,
+.color__7 .load-more,
+.color__7 .team__social i:hover,
+.color__7 .progress-bar.primary,
+.color__7 .image__content ul li i,
+.color__7 .package__name,
+.color__7 .flickity-page-dots .dot.is-selected,
+.color__7 .send__message .wpcf7-submit,
+.color__7 .subscribe__btn {
+    background: #00D664;
+}
+
+.color__7 .nav-menu > li:hover > a,
+.color__7 .nav-menu > .active > a,
+.color__7 .nav-menu > .focus > a,
+.color__7 header.sticky-header .nav-menu > li:hover > a,
+.color__7 header.sticky-header .nav-menu > .active > a,
+.color__7 header.sticky-header .nav-menu > .focus > a,
+.color__7 .v2 .counter__wrapper i,
+.color__7 .fig__caption i,
+.color__7 .testimonial i,
+.color__7 a.read__more:hover,
+.color__7 .social__link li:hover i,
+.color__7 .footer__widget ul li a:hover {
+    color: #00D664;
+}
+
+.color__7 .top__header .social__icon i:hover,
+.color__7 .about__btn:hover,
+.color__7 .send__message .wpcf7-submit:hover,
+.color__7 .subscribe__btn:hover,
+.color__7 .load-more:hover,
+.color__7 .v2_service_block:hover,
+.color__7 .team__social i:hover,
+.color__7 .btn.pricing__btn:hover {
+    border-color: #00D664;
+}
+
+.color__7 .about__btn:hover {
+    box-shadow: inset #00D664 0px -60px 0px;
+}
+
+.color__7 .btn.pricing__btn:hover {
+    box-shadow: inset #00D664 0px -60px 0px;
+}
+
+.color__7 .pricing.focused {
+    box-shadow: #00D664 0 5px 0px;
+}
+
+/*======================================
+                Color 8
+======================================*/
+.v2__switcher .color__8,
+.color__8 .slider__btn,
+.color__8 .switcher_btn .btn,
+.color__8 .top__header .social__icon i:hover,
+.color__8 .rev-btn,
+.color__8 .load-more,
+.color__8 .team__social i:hover,
+.color__8 .progress-bar.primary,
+.color__8 .image__content ul li i,
+.color__8 .package__name,
+.color__8 .flickity-page-dots .dot.is-selected,
+.color__8 .send__message .wpcf7-submit,
+.color__8 .subscribe__btn {
+    background: #607D8D;
+}
+
+.color__8 .nav-menu > li:hover > a,
+.color__8 .nav-menu > .active > a,
+.color__8 .nav-menu > .focus > a,
+.color__8 header.sticky-header .nav-menu > li:hover > a,
+.color__8 header.sticky-header .nav-menu > .active > a,
+.color__8 header.sticky-header .nav-menu > .focus > a,
+.color__8 .v2 .counter__wrapper i,
+.color__8 .fig__caption i,
+.color__8 .testimonial i,
+.color__8 a.read__more:hover,
+.color__8 .social__link li:hover i,
+.color__8 .footer__widget ul li a:hover {
+    color: #607D8D;
+}
+
+.color__8 .top__header .social__icon i:hover,
+.color__8 .about__btn:hover,
+.color__8 .send__message .wpcf7-submit:hover,
+.color__8 .subscribe__btn:hover,
+.color__8 .load-more:hover,
+.color__8 .v2_service_block:hover,
+.color__8 .team__social i:hover,
+.color__8 .btn.pricing__btn:hover {
+    border-color: #607D8D;
+}
+
+.color__8 .about__btn:hover {
+    box-shadow: inset #607D8D 0px -60px 0px;
+}
+
+.color__8 .btn.pricing__btn:hover {
+    box-shadow: inset #607D8D 0px -60px 0px;
+}
+
+.color__8 .pricing.focused {
+    box-shadow: #607D8D 0 5px 0px;
+}
+
+/*
+************************************************
+           ==Font Family==
+************************************************ 
+*
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,500,700|PT+Sans:400,400i,700,700i|Roboto:300,400,400i,500,700');
+
+/*======================================
+                Font 1
+======================================
+
+html .font__1,
+body .font__1 {
+    font-family: "Lato", sans-serif;
+}
+
+.font__1 h1,
+.font__1 h2,
+.font__1 h3,
+.font__1 h4,
+.font__1 h5,
+.font__1 h6,
+.font__1 p,
+.font__2 .btn {
+    font-family: "Lato", sans-serif;
+}
+
+.font__1 h3 {
+    font-family: "Lato", sans-serif;
+}
+
+.font__1 h5 {
+    font-family: "Lato", sans-serif;
+}
+
+.font__1 h6 {
+    font-family: "Lato", sans-serif;
+}
+
+.font__1 p {
+    font-family: "Lato", sans-serif;
+}
+
+.font__1 label {
+    font-family: "Lato", sans-serif;
+}
+
+/*======================================
+                Font 2
+======================================
+
+html .font__2,
+body .font__2  {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__2 h1,
+.font__2 h2,
+.font__2 h3,
+.font__2 h4,
+.font__2 h5,
+.font__2 h6,
+.font__2 p,
+.font__2 .btn {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__2 h3 {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__2 h5 {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__2 h6 {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__2 p {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__2 label {
+    font-family: "Roboto", sans-serif;
+}
+/*======================================
+                Font 3
+======================================
+
+html .font__3,
+body .font__3  {
+    font-family: "PT Sans", sans-serif;
+}
+
+.font__3 h1,
+.font__3 h2,
+.font__3 h3,
+.font__3 h4,
+.font__3 h5,
+.font__3 h6,
+.font__3 p,
+.font__3 .btn {
+    font-family: "PT Sans", sans-serif;
+}
+
+.font__3 h3 {
+    font-family: "PT Sans", sans-serif;
+}
+
+.font__3 h5 {
+    font-family: "PT Sans", sans-serif;
+}
+
+.font__3 h6 {
+    font-family: "PT Sans", sans-serif;
+}
+
+.font__3 p {
+    font-family: "PT Sans", sans-serif;
+}
+
+.font__3 label {
+    font-family: "PT Sans", sans-serif;
+}
+
+/*======================================
+                Font 4
+======================================
+
+html .font__4,
+body .font__4  {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__4 h1,
+.font__4 h2,
+.font__4 h3,
+.font__4 h4,
+.font__4 h5,
+.font__4 h6,
+.font__4 p,
+.font__4 .btn {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__4 h3 {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__4 h5 {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__4 h6 {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__4 p {
+    font-family: "Roboto", sans-serif;
+}
+
+.font__4 label {
+    font-family: "Roboto", sans-serif;
+}
+
+/*
+************************************************
+           ==Switcher Style==
+************************************************ 
+*/
+
+.v2__switcher {
+	background: #fff;
+	height: 100%;
+	padding: 100px 30px;
+	-webkit-transition: .5s;
+	transition: .5s;
+	position: fixed;
+	z-index: 9999;
+	width: 300px;
+	right: -301px;
+	box-shadow: -4px 0 20px rgba(0, 0, 0, 0.08)
+}
+
+.v2__switcher p {
+	text-align: center;
+	margin: 0 auto;
+	padding: 5px 0 40px;
+	font-size: 13px;
+	line-height: 22px
+}
+
+.v2__switcher h3 {
+	font-size: 18px;
+	font-weight: 700;
+	text-align: center
+}
+
+.v2__switcher_bg {
+	left: 0
+}
+
+.v2__switcher ul {
+	text-align: center;
+	padding: 0
+}
+
+.v2__switcher li {
+	display: inline-block;
+	width: 45px;
+	height: 45px;
+	line-height: 45px;
+	border-radius: 3px;
+	font-size: 15px;
+	background: #467 none repeat scroll 0 0;
+	margin: 5px 3px;
+	cursor: pointer;
+	color: #fff;
+	text-align: center;
+	list-style-type: none
+}
+
+#color_box {
+	position: absolute;
+	left: -57px;
+	top: 250px;
+	color: #fff;
+	padding: 15px 20px;
+	cursor: pointer;
+	font-size: 20px;
+	background: #333;
+	border-top-left-radius: 5px;
+	border-bottom-left-radius: 5px
+}
+
+@media only screen and (min-width: 300px) and (max-width: 500px) {
+#color_box {
+    left: -46px;
+    padding: 12px 16px;
+    font-size: 16px;
+	}
+}
+
+.color_box_fix {
+	right: 0;
+}
+
+.switcher_btn .btn {
+    color: #fff;
+    height: 60px;
+    line-height: 60px;
+    width: 100%;
+    margin-top: 30px;
+    text-align: center;
+    background: #F9BF3B;
+}
+
+.fonts_options li {
+    width: 100%;
+    background: transparent;
+    color: #666;
+    border: 1px solid;
+}
+
+.fa-spin {
+	-webkit-animation: fa-spin 2s infinite linear;
+	animation: fa-spin 2s infinite linear
+}
+
+.fa-gear:before,
+.fa-cog:before {
+	content: "\f013"
+}
+
+@-webkit-keyframes "fa-spin" {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(359deg);
+		transform: rotate(359deg);
+	}
+}
+
+@keyframes "fa-spin" {
+	0% {
+		-webkit-transform: rotate(0deg);
+		transform: rotate(0deg);
+	}
+	100% {
+		-webkit-transform: rotate(359deg);
+		transform: rotate(359deg);
+	}
+}

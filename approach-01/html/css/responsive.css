@@ -1,0 +1,302 @@
+/* ==============================================
+==================Large Display==============*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .v2 .container {
+        width: 910px;
+    }
+    /*--------- Uttilities --------*/
+    .p__md__120 {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .pt__md__90 {
+        padding-bottom: 90px
+    }
+    .pt__md__90 {
+        padding-bottom: 70px
+    }
+    /*--------- Portfolio Caption --------*/
+    .fig__caption {
+        -webkit-transform: translate(50%, -50%);
+        transform: translate(50%, -50%);
+    }
+}
+
+
+/* ==============================================
+==================Medium Display==============*/
+
+@media only screen and (max-width: 991px) {
+    .v2 .container {
+        width: 728px;
+    }
+    /*--------- Uttilities --------*/
+    .pt__sm__50 {
+        padding-top: 50px;
+    }
+    .pt__sm__70 {
+        padding-top: 70px;
+    }
+    .pt__sm__80 {
+        padding-top: 80px;
+    }
+    .pb__sm__40 {
+        padding-bottom: 40px;
+    }
+    .pb__sm__50 {
+        padding-bottom: 50px;
+    }
+    .pb__sm__60 {
+        padding-bottom: 60px;
+    }
+    .pb__sm__80 {
+        padding-bottom: 80px;
+    }
+    .v2_title.pb__70.text__center {
+        padding-bottom: 50px;
+    }
+    .flex__sm__col {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-flow: column;
+        flex-flow: column;
+    }
+    /*--------- Header --------*/
+    .sticky-header button.btn-show {
+        padding-top: 15px;
+    }
+    .v2 .top__header .container,
+    .v2 header .container {
+        width: 95%;
+    }
+    header.sticky-header .nav-logo > img {
+        margin: 15px auto 0px 20px;
+    }
+    header.sticky-header .nav-menu > .active > a::after {
+        height: 1px;
+        background: #F9BF3B none repeat scroll 0 0;
+    }
+    /*--------- About --------*/
+    .v2_about .container__mid {
+        display: inherit;
+    }
+    /*--------- Service --------*/
+    .v2_service_block {
+        margin-bottom: 30px;
+    }
+    .v2_service_block img {
+        width: 100%;
+    }
+    /*--------- Fun Facts --------*/
+    .v2 .counter__wrapper h3 {
+        font-size: 28px;
+        font-weight: 700;
+    }
+    .v2 .counter__wrapper span {
+        font-size: 15px;
+    }
+    .v2 .counter__wrapper i {
+        font-size: 22px;
+    }
+    /*--------- Portfolio Caption --------*/
+    .gallery-img img {
+        width: 100%;
+    }
+    .fig__caption {
+        -webkit-transform: translate(35%, -20%);
+        transform: translate(35%, -20%);
+        text-align: center;
+    }
+    .fig__caption h3 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    /*--------- team  --------*/
+    .v2__team__img img {
+        width: 100%;
+    }
+    /*--------- image block --------*/
+    .side__img {
+        left: -80%;
+        width: 100%;
+    }
+    .side__img {
+        margin-top: -42px;
+    }
+    /*--------- pricing  --------*/
+    .pricing {
+        margin-bottom: 30px;
+    }
+    /*--------- blog --------*/
+    .blog__post {
+        margin-bottom: 30px;
+    }
+    .blog__post img {
+        width: 100%;
+    }
+    /*--------- contact info --------*/
+    .social__link {
+        padding-top: 45px;
+    }
+    /*--------- footer --------*/
+    footer .container__mid {
+        display: inherit;
+    }
+}
+
+
+/* ==============================================
+==================Tab Screen==============*/
+
+@media only screen and (max-width: 767px) {
+    .v2 .container {
+        width: 450px;
+    }
+    .flex__sm__none {
+        display: inherit;
+    }
+    .v2_title h5 {
+        font-size: 16px;
+        line-height: 28px;
+    }
+    /*--------- header --------*/
+    .off_can_lg {
+        margin-top: -30px;
+    }
+    .sticky-header .off_can_lg {
+        margin: 0;
+    }
+    .top__header {
+        text-align: center;
+        height: 95px;
+    }
+    .top__header .float__right {
+        float: none;
+    }
+    .fs__14 {
+        font-size: 14px!important;
+    }
+    .fs__13 {
+        font-size: 13px!important;
+    }
+    /*--------- Fun Facts --------*/
+    .counter__wrapper {
+        display: inline-block;
+        padding-bottom: 30px;
+        padding-right: 37px;
+    }
+    .fun__facts .pbt__70 {
+        padding-bottom: 40px;
+    }
+    /*--------- Feature --------*/
+    img.v2__mockup {
+        display: none;
+    }
+    /*--------- Portfolio --------*/
+    .button-group button {
+        padding: 0 8px 10px;
+        margin-bottom: 20px;
+    }
+    .v2__portfolio .grid li {
+        width: 100%;
+    }
+    .fig__caption {
+        bottom: 25%;
+        left: 25%;
+    }
+    /*--------- team --------*/
+    .v2__team__mamber {
+        margin-bottom: 30px;
+    }
+    /*--------- image block --------*/
+    .v2__features {
+        padding: 80px 0 60px;
+    }
+    .side__img {
+        margin-top: 80px;
+        position: initial;
+    }
+    /*--------- client --------*/
+    .client__carousel .carousel-cell {
+        width: 30%;
+    }
+    /*--------- footer --------*/
+    .widget__one {
+        padding-bottom: 30px;
+    }
+}
+
+
+/* ==============================================
+=============Medium Mobile Screen==============*/
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    .v2 .container {
+        width: 450px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .top__header.bg__dark {
+        display: none;
+    }
+    header {
+        top: 10px;
+    }
+    .off_can_lg {
+        margin-top: 0;
+    }
+}
+
+/* ==============================================
+============Small Mobile Display==============*/
+
+@media only screen and (min-width: 300px) and (max-width: 479px) {
+    .v2 .container {
+        width: 300px;
+    }
+    .fs__14 {
+        font-size: 12px!important;
+    }
+    /*--------- Slider Facts --------*/
+    .slider-content h2 {
+        font-size: 38px;
+    }
+    .slider-content h3 {
+        color: #ddd;
+        font-size: 18px;
+        line-height: 30px;
+        padding-bottom: 30px;
+    }
+    .slider__btn {
+        transform: scale(.85);
+    }
+    /*--------- counter --------*/
+    .counter__wrapper {
+        padding-right: 16px;
+    }
+    /*--------- portfolio --------*/
+    .fig__caption {
+        bottom: 15%;
+        left: 12%;
+    }
+    /*--------- client --------*/
+    .client__carousel .carousel-cell {
+        width: 45%;
+    }
+    /*--------- features --------*/
+    .v2__features .container__mid {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-flow: column;
+        flex-flow: column;
+    }
+    /*--------- contact --------*/
+    .send__message {
+        padding: 50px 30px 55px 30px;
+    }
+    .contact__info {
+        padding: 50px 30px 50px 30px;
+    }
+}

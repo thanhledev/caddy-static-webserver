@@ -1,0 +1,7 @@
+0.0.0.0:80, 0.0.0.0:443 {
+	root /var/www/html
+	gzip
+	tls self_signed
+	log /var/log/caddy/access.log
+	errors /var/log/caddy/errors.log
+}

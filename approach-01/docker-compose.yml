@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  webserver:
+    image: thanhledev/alpine-caddy:0.0.9
+    ports:
+      - "8080:80"
+      - "4433:443"
+      - "2015:2015"
+    volumes:
+      - "./html:/var/www/html"
+      - "./Caddyfile:/etc/Caddyfile"
